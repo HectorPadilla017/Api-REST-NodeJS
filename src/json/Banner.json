@@ -1,0 +1,29 @@
+{
+    "Banner":[
+        {
+            "id": "1",
+            "Img": "http://demo.cfn.org.mx/img/Banner/Banner1.png",
+            "Nombre": "Banner1"
+        },
+        {
+            "id": "2",
+            "Img": "http://demo.cfn.org.mx/img/Actividades2/SPOTIFY.jpg",
+            "Nombre": "Reforma"
+        },
+        {
+            "id": "3",
+            "Img": "http://demo.cfn.org.mx/img/Banner/Banner2.jpg",
+            "Nombre": "Banner2"
+        },
+        {
+            "id": "4",
+            "Img": "http://demo.cfn.org.mx/img/Banner/Banner3.JPG",
+            "Nombre": "Banner3"
+        },
+        {
+            "id": "5",
+            "Img": "http://demo.cfn.org.mx/img/Banner/Banner4.JPG",
+            "Nombre": "Banner4"
+        }
+    ]
+}
